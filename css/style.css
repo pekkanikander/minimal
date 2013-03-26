@@ -142,6 +142,10 @@ header li:last-child a {
   border-radius:0 5px 5px 0;
 }
 
+ul {
+  padding-left: 20px;
+}
+
 header ul a {
   line-height:1;
   font-size:11px;
